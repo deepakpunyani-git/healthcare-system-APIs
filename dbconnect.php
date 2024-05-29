@@ -4,7 +4,7 @@
 	*/
 	class DbConnect {
 		private $server = 'localhost';
-		private $dbname = 'wlbs';
+		private $dbname = 'jwt';
 		private $user = 'root';
 		private $pass = '';
 
